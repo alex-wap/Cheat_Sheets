@@ -22,5 +22,3 @@ A repo of cheat sheets and guides for developers, by developers.
 
 ### Contributing
 If you would like to contribute, just make a pull request. [Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) is a good resources if you don't know markdown.
-
-HELLO
